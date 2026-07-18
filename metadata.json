@@ -1,0 +1,6 @@
+{
+  "name": "SPBE Audit System",
+  "description": "Sistem Informasi Audit Aplikasi SPBE (Sistem Pemerintahan Berbasis Elektronik) untuk Instansi Pemerintah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
